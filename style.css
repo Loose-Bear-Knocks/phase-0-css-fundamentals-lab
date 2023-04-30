@@ -12,16 +12,19 @@ head {
 
 #featured-property p {
   width: 800px;
-  position:relative;
-  text-align: center;
-  margin:auto;
+  padding-left: 325px;
+  padding-right: 325px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  text-align:center;
+
 }
 
 div {
   float: left;
   width: 25%;
   text-align: center;
-  background-color:bisque;
+  background-color: coral;
 } 
 
 figcaption {
@@ -29,7 +32,7 @@ figcaption {
 }
 
 a {
-  background-color:bisque;
+  background-color:red;
   padding-left:10px;
   padding-right: 10px;
 }
